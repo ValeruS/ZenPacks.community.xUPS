@@ -6,6 +6,8 @@ Description
 
 This ZenPack gathers information from UPS Device. SNMP Adapter based on xUPS-MIB .1.3.6.1.4.1.534
 
+Tested on Eaton UPS 9355
+
 Requirements & Dependencies
 * Zenoss Versions Supported: 4.x - tested against Zenoss Core 4.2.5 SUP 671
 * External Dependencies:
